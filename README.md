@@ -7,7 +7,7 @@
 ### STEP 1: Clone the Repository
 
 ```bash
-git clone https://github.com/entbappy/Build-a-Complete-Medical-Chatbot-with-LLMs-LangChain-Pinecone-Flask-AWS.git
+git clone https://github.com/harshav6/Medical-Chatbot.git
 ```
 
 ---
